@@ -1,0 +1,47 @@
+source_index,source_character,target_indices
+0,Kiyotaka Ayanokōji,1 2 3 4 5 6 7 8 9 10 11 12 13 14 17 21 23 24 25 27 35 36 42
+1,Suzune Horikita,0 2 3 4 5 6 7 8 9 11 12 13 27
+2,Honami Ichinose,0 3 5 6 17 18 25 26 38
+3,Kakeru Ryūen,0 1 2 4 6 10 11 17 22 31
+4,Kei Karuizawa,0 1 3 5 7 8 9 11 22 27 35 39
+5,Kikyō Kushida,0 1 2 3 4 7 8 9 13
+6,Arisu Sakayanagi,0 1 2 3 14 15 17 23 33 34
+7,Yōsuke Hirata,0 1 4 5 8 9 28 35 36
+8,Airi Sakura,0 1 4 5 21 27 42
+9,Ken Sudō,0 1 5 7 28 30
+10,Hiyori Shiina,0 3 4 11 22 41
+11,Mio Ibuki,0 1 3 4 10 22
+12,Manabu Horikita,0 1 18 20
+13,Sae Chabashira,0 1 3 5 23 25
+14,Professor Ayanokōji,0 6 15 16 23 40 45
+15,Ichika Amasawa,0 1 14 16 31 44
+16,Takuya Yagami,0 5 14 15 40 44 45
+17,Kōhei Katsuragi,0 2 3 6 33 34
+18,Miyabi Nagumo,0 2 12 29 37
+19,Rokusuke Kōenji,0 1 3 12
+20,Akane Tachibana,0 12 18
+21,Akito Miyake,0 8 27 42
+22,Albert Yamada,0 3 10 11
+23,Chairman Sakayanagi,0 6 13 14
+24,Chiaki Matsushita,0 1 4 7
+25,Chie Hoshinomiya,0 2 6 13 43
+26,Chihiro Shiranami,0 2 38
+27,Haruka Hasebe,0 8 21 42
+28,Haruki Yamauchi,0 1 5 9 30
+29,Ikuto Kiriyama,0 12 18
+30,Kanji Ike,0 9 28 39
+31,Kazuomi Hōsen,0 1 3 9 15 44
+32,Kyō Ishigami,0 1 5 6 16
+33,Masayoshi Hashimoto,0 3 6 17 34
+34,Masumi Kamuro,0 6 17 33
+35,Maya Satō,0 4 7
+36,Mei-Yu Wang,0 4 7
+37,Nazuna Asahina,0 12 18
+38,Ryūji Kanzaki,0 2 3 26
+39,Satsuki Shinohara,0 4 9 30
+40,Shirō,0 14 16 45
+41,Takeko Nishino,0 3 10 11
+42,Teruhiko Yukimura,0 1 8 21 27
+43,Tomonari Mashima,0 2 13 17 25
+44,Tsubasa Nanase,0 14 15 16 31
+45,Yuki,0 14 16 40
